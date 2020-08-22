@@ -1,4 +1,4 @@
-# morning_briefing
+# Morning Briefing
 This code sends an email every morning with specific information I like to read to start my day. 
 
 To get started:<br />
